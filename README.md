@@ -5,8 +5,8 @@
 ## 🔗 Links
 
 - **[My Website](https://github.com/ETKZ/my-website)**  
-- **[Meta AI blog** – *Meditron: An LLM suite especially suited for low-resource medical settings leveraging Meta Llama*](https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/)  
-- **[Press Release for Meditron v1** – *EPFL's new Large Language Model for Medical Knowledge*](https://actu.epfl.ch/news/epfl-s-new-large-language-model-for-medical-knowle/)  
+- [Meta AI blog – *Meditron: An LLM suite especially suited for low-resource medical settings leveraging Meta Llama*](https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/)  
+- [Press Release for Meditron v1 – *EPFL's new Large Language Model for Medical Knowledge*](https://actu.epfl.ch/news/epfl-s-new-large-language-model-for-medical-knowle/)  
 - **[OpenMeditron Repository](https://github.com/OpenMeditron)** 
 
 ---

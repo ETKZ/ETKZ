@@ -4,7 +4,7 @@
 
 ## Links
 
-- [My Website](https://github.com/ETKZ/etienne-boisson.github.io)  
+- [My Website](https://etkz.github.io/etienne-boisson.github.io/)  
 - [Meta AI blog – *Meditron: An LLM suite especially suited for low-resource medical settings leveraging Meta Llama*](https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/)  
 - [Press Release for Meditron v1 – *EPFL's new Large Language Model for Medical Knowledge*](https://actu.epfl.ch/news/epfl-s-new-large-language-model-for-medical-knowle/)  
 - [OpenMeditron Repository](https://github.com/OpenMeditron) 

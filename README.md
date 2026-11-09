@@ -7,7 +7,7 @@ Before that, I spent two years building open medical LLMs (Meditron) with the Li
 
 ## Links
 
-- [My Website](https://YOUR-SITE): papers, news and [CV](https://YOUR-SITE/cv.pdf)
+- [My Website](https://etienneboisson.com): papers, news and [CV](https://etienneboisson.com/cv.pdf)
 - [Meditron models on Hugging Face](https://huggingface.co/collections/EPFLiGHT/meditron-3) (~100k downloads)
 - [OpenMeditron Repository](https://github.com/OpenMeditron)
 - [LinkedIn](https://www.linkedin.com/in/etienne-boisson/)
@@ -17,7 +17,7 @@ Before that, I spent two years building open medical LLMs (Meditron) with the Li
 
 ## Selected Work
 
-### [*Expanding the Meditron Protocol*](https://YOUR-SITE/papers/) (Master's Thesis, 2025)
+### [*Expanding the Meditron Protocol*](https://etienneboisson.com/papers/) (Master's Thesis, 2025)
 Medical fine-tuning, conversation skills and safety alignment (DPO) across Llama, Gemma, Qwen and Phi, in one reusable pipeline now used by several Meditron teams.
 
 ### [*Llama-3-Meditron: An Open-Weight Suite of Medical LLMs*](https://openreview.net/forum?id=ZcD35zKujO) (GenAI for Health, AAAI 2025)
